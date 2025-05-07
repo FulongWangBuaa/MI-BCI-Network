@@ -1,30 +1,30 @@
 # MI-BCI-Network
 
 
-### DeepConvNet[1]、ShallowConvNet[2]、EEGNet[3]
+### DeepConvNet、ShallowConvNet、EEGNet
 - [https://github.com/vlawhern/arl-eegmodels](https://github.com/vlawhern/arl-eegmodels)
   
 - Deep learning with convolutional neural networks for EEG decoding and visualization.[DOI: 10.1109/SPMB.2017.8257015](10.1109/SPMB.2017.8257015)
 - Deep learning with convolutional neural networks for EEG decoding and visualization.[DOI: 10.1109/SPMB.2017.8257015](10.1109/SPMB.2017.8257015)
 - EEGNet: a compact convolutional neural network for EEG-based brain–computer interfaces.[DOI: 10.1088/1741-2552/aace8c](10.1088/1741-2552/aace8c)
 
-### EEGTCNet[4]
+### EEGTCNet
 - [https://github.com/iis-eth-zurich/eeg-tcnet](https://github.com/iis-eth-zurich/eeg-tcnet)
   
 - EEG-TCNet: An Accurate Temporal Convolutional Network for Embedded Motor-Imagery Brain–Machine Interfaces.[DOI: 10.1109/SMC42975.2020.9283028](10.1109/SMC42975.2020.9283028)
 
-### TCNet_Fusion[5]
+### TCNet_Fusion
 
 - Electroencephalography-based motor imagery classification using temporal convolutional network fusion.[DOI: 10.1016/j.bspc.2021.102826](https://doi.org/10.1016/j.bspc.2021.102826)
 
 
-### EEGNeX_8_32[6]
+### EEGNeX_8_32
 - [https://github.com/chenxiachan/EEGNeX](https://github.com/chenxiachan/EEGNeX)
   
 - Toward reliable signals decoding for electroencephalogram: A benchmark study to EEGNeX.[DOI: 10.1016/j.bspc.2023.105475](https://doi.org/10.1016/j.bspc.2023.105475)
 
 
-### ATCNet[7]
+### ATCNet
 - [https://github.com/Altaheri/EEG-ATCNet](https://github.com/Altaheri/EEG-ATCNet)
 
 - Physics-Informed Attention Temporal Convolutional Network for EEG-Based Motor Imagery Classification.[DOI: 10.1109/TII.2022.3197419](10.1109/TII.2022.3197419)
