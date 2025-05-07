@@ -2,6 +2,7 @@
 
 
 ## DeepConvNet、ShallowConvNet、EEGNet
-https://github.com/vlawhern/arl-eegmodels
+[DeepConvNet](https://github.com/vlawhern/arl-eegmodels)
+
 
 ## 
