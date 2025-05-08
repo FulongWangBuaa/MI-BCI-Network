@@ -24,6 +24,12 @@
 - Toward reliable signals decoding for electroencephalogram: A benchmark study to EEGNeX.[DOI: 10.1016/j.bspc.2023.105475](https://doi.org/10.1016/j.bspc.2023.105475)
 
 
+### MMCNN
+- [https://github.com/jingwang2020/ECML-PKDD_MMCNN](https://github.com/jingwang2020/ECML-PKDD_MMCNN)
+
+- MMCNN: A Multi-branch Multi-scale Convolutional Neural Network for Motor Imagery Classification.[DOI: https://doi.org/10.1007/978-3-030-67664-3_44](https://doi.org/10.1007/978-3-030-67664-3_44)
+
+
 ### ATCNet
 - [https://github.com/Altaheri/EEG-ATCNet](https://github.com/Altaheri/EEG-ATCNet)
 
