@@ -37,7 +37,7 @@
 
 
 ### TACNet
-
+- TACNet: Task-aware Electroencephalogram Classification for Brain-Computer Interface through A Novel Temporal Attention Convolutional Network. [DOI: 10.1145/3460418.3480411](10.1145/3460418.3480411)
 
 ### TCACNet
 - TCACNet: Temporal and channel attention convolutional network for motor imagery classification of EEG-based BCI.[DOI: 10.1016/j.ipm.2022.103001](10.1016/j.ipm.2022.103001)
